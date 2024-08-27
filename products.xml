@@ -1,0 +1,102 @@
+<products>
+ <product>
+    <category>samsung tv</category>
+    <productname>Samsung - 55 inch Class TU690T Crystal UHD 4K Smart Tizen TV</productname>
+    <imagepath>images/samsungtv1.jpg</imagepath>
+    <price>500$</price>
+    <feature1>4K UHD Upscaling</feature1>
+    <feature2>Smart TV powered by Tizen</feature2>
+    <feature3>Crystal Processor 4K</feature3>
+    <feature4>PurColor Crystal Display</feature4>
+ </product>
+ <product>
+    <category>samsung tv</category>
+    <productname>Samsung - 55 inch Class CU7000 Crystal UHD 4K Smart Tizen TV</productname>
+    <imagepath>images/samsungtv2.jpg</imagepath>
+    <price>590$</price>
+    <feature1>Mega Contrast</feature1>
+    <feature2>Object Tracking Sound Lite</feature2>
+    <feature3>Q-Symphony</feature3>
+    <feature4>Samsung Gaming Hub</feature4>
+ </product>
+ <product>
+    <category>apple iphone</category>
+    <productname>Apple - iPhone 15 Pro Max 256GB - Black Titanium (Verizon)</productname>
+    <imagepath>images/iphone.jpg</imagepath>
+    <price>300$</price>
+    <feature1>iPhone 15 Pro Max has a strong and light aerospace-grade titanium design with a textured matte-glass back</feature1>
+    <feature2>The 6.7” Super Retina XDR display² with ProMotion ramps up refresh rates to 120Hz when you need exceptional graphics performance</feature2>
+    <feature3>A Pro-class GPU makes mobile games feel so immersive, with rich environments and realistic characters</feature3>
+    <feature4>Get incredible framing flexibility with 7 pro lenses</feature4>
+ </product>
+ <product>
+    <category>apple iphone</category>
+    <productname>Apple - iPhone 13 5G 128GB (Unlocked) - Midnight</productname>
+    <imagepath>images/iphone1.jpg</imagepath>
+    <price>490$</price>
+    <feature1>6.1-inch Super Retina XDR display²</feature1>
+    <feature2>Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles</feature2>
+    <feature3>A15 Bionic chip for lightning-fast performance</feature3>
+    <feature4>Durable design with Ceramic Shield</feature4>
+ </product>
+ <product>
+    <category>lg refrigerator</category>
+    <productname>LG - 25.1 Cu. Ft. French Door Refrigerator with Ice Maker - Stainless Steel</productname>
+    <imagepath>images/fridge1.jpg</imagepath>
+    <price>1299$</price>
+    <feature1>Stock-up and store everything you need. With a cavernous 25 cubic feet of space.</feature1>
+    <feature2>Get the space you need in a refrigerator that's right for your kitchen</feature2>
+    <feature3>Fingerprint and smudge resistant finish easily wipes clean with a soft, dry cloth, so the only lasting impression is your impeccable taste.</feature3>
+    <feature4>The 2 crisper drawers gives you easy access to your fruits, vegetables and beverages.</feature4>
+ </product>
+ <product>
+    <category>lg refrigerator</category>
+    <productname>LG - 27.8 Cu. Ft. 4-Door French Door Smart Refrigerator with Smart Cooling System - Stainless Steel</productname>
+    <imagepath>images/fridge2.jpg</imagepath>
+    <price>1899$</price>
+    <feature1>Store more food with our Ultra-Large Capacity (28 cubic feet) refrigerators.</feature1>
+    <feature2>Beautiful, easy-to-clean finishes are fingerprint and smudge resistant</feature2>
+    <feature3>Keep your appliances running smoothly with ThinQ Care, now in the ThinQ app.</feature3>
+    <feature4>The Door Cooling+ air duct helps keep door contents at peak freshness.</feature4>
+ </product>
+ <product>
+    <category>apple ipad</category>
+    <productname>Apple - 10.2-Inch iPad (9th Generation) with Wi-Fi - 64GB - Space Gray</productname>
+    <imagepath>images/ipad1.jpg</imagepath>
+    <price>299$</price>
+    <feature1>Gorgeous 10.2-inch Retina display with True Tone</feature1>
+    <feature2>A13 Bionic chip with Neural Engine</feature2>
+    <feature3>8MP Wide back camera, 12MP Ultra Wide front camera with Center Stage</feature3>
+    <feature4>Up to 256GB storage</feature4>
+ </product>
+ <product>
+    <category>apple ipad</category>
+    <productname>Certified Refurbished - Apple iPad Pro 10.5" (2nd Generation) (2017) Wi-Fi - 64GB - Silver</productname>
+    <imagepath>images/ipad2.jpg</imagepath>
+    <price>284$</price>
+    <feature1>iPad has always offered the ultimate Multi-Touch experience</feature1>
+    <feature2>The new 10.5-inch iPad Pro comes with a screen nearly 20 percent larger than the 9.7-inch mode</feature2>
+    <feature3>The new iPad Pro Retina display features ProMotion technology, with support for a 120Hz refresh rate.</feature3>
+    <feature4>Enhanced brightness makes it easier than ever to see, wherever you are.</feature4>
+ </product>
+ <product>
+    <category>garmin smartwatch</category>
+    <productname>Garmin - Forerunner 965 GPS Smartwatch 47 mm Fiber-reinforced polymer - Carbon Gray TLC/Titanium</productname>
+    <imagepath>images/watch1.jpg</imagepath>
+    <price>549$</price>
+    <feature1>Brilliant AMOLED touchscreen display with traditional button controls and lightweight titanium bezel</feature1>
+    <feature2>Battery life: up to 23 days of battery life in smartwatch mode, up to 31 hours in GPS mode</feature2>
+    <feature3>Confidently run any route using full-color, built-in maps and multi-band GPS</feature3>
+    <feature4>Training readiness score is based on sleep quality, recovery, training load and HRV status to determine if you’re primed to go hard and reap the rewards </feature4>
+ </product>
+ <product>
+    <category>garmin smartwatch</category>
+    <productname>Garmin - Instinct 2 Solar 45 mm Smartwatch Fiber-reinforced Polymer - Graphite</productname>
+    <imagepath>images/watch2.jpg</imagepath>
+    <price>299$</price>
+    <feature1>Go longer than ever with solar charging that gives you unlimited battery life in smartwatch mode</feature1>
+    <feature2>Rugged GPS smartwatch is water-rated to 100 meters and thermal- and shock resistant </feature2>
+    <feature3>Built-in sports apps to take on running, biking, swimming, strength training and more; plus, VO2 Max and other training features</feature3>
+    <feature4>Live the ultimate connected life with smart notifications and Connect IQ compatibility when paired with your compatible smartphone.</feature4>
+ </product>
+</products>

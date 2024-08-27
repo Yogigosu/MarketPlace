@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Page</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="menu.css" type="text/css">
+    <script type="text/javascript" src="addfeedback.js"></script>
+</head>
+<body>
+    <ul>
+        <li><a class="active" href="homepage.html">Home</a></li>
+        <li><a href="addproduct.html">Add Product</a></li>
+        <li><a href="searchproduct.html">Search Product</a></li>
+        <li><a href="allproducts.html">All Product Listings</a></li>
+        <li><a href="addfeedback.html">Submit Feedback</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul> 
+      <br><br><br>
+      Please Select Seller:<br><br>
+      <div id="sellers"></div>
+
+      <div id="addfeedback">
+        <table>
+            <tr>
+        <td>Feedback : </td>
+        <td><textarea id="feedback" rows="5" cols="30"></textarea></td>
+    </tr>
+    <tr>
+        <td>
+            <input type="button" value="Submit Feedback" id="addfeedback">
+        </td>
+    </tr>
+    </table>
+      </div>
+</body>
+</html>

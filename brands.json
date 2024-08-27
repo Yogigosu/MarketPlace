@@ -1,0 +1,20 @@
+{
+    "brands":
+    [
+        {
+            "brand":"Apple"
+        },
+        {
+            "brand":"Samsung"
+        },
+        {
+            "brand":"OnePlus"
+        },
+        {
+            "brand":"LG"
+        },
+        {
+            "brand":"Toshiba"
+        }
+    ]
+}

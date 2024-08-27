@@ -1,0 +1,20 @@
+{
+    "sellers":
+    [
+        {
+            "name":"rastahog"
+        },
+        {
+            "name":"Amazon Warehouse"
+        },
+        {
+            "name":"MobileMonster"
+        },
+        {
+            "name":"Triplenet Pricing INC"
+        },
+        {
+            "name":"Certified Supply Source"
+        }
+    ]
+}

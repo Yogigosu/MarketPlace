@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Product</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="menu.css" type="text/css">
+    <script type="text/javascript" src="addproduct.js"></script>
+</head>
+<body>
+    <ul>
+        <li><a class="active" href="homepage.html">Home</a></li>
+        <li><a href="addproduct.html">Add Product</a></li>
+        <li><a href="searchproduct.html">Search Product</a></li>
+        <li><a href="allproducts.html">All Product Listings</a></li>
+        <li><a href="addfeedback.html">Submit Feedback</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul> 
+  
+      <table>
+        <tr>
+    <td>Select Category : </td>
+    <td><select id="categorydropdown"></select></td>
+        </tr>
+        <tr>
+         <td>
+            Select Brand:
+         </td>
+         <td><select id="brands"></select></td>
+        </tr>
+        <tr>
+            <td>Product Name: </td>
+            <td><input type="text" id="productname"></td>
+        </tr>
+        <tr>
+            <td>Price: </td>
+            <td><input type="number" id="price"></td>
+        </tr>
+        <tr>
+            <td>Details: </td>
+            <td><textarea id="details" rows="10" cols="50"></textarea></td>
+        </tr>
+        <tr>
+            <td>Delivery Type: </td>
+            <td>
+                <input type="radio" name="delivery">Pick Up at Seller's Location &nbsp
+                <input type="radio" name="delivery">Online Delivery  &nbsp
+                <input type="radio" name="delivery">Both &nbsp
+            </td>
+        </tr>
+      </table>
+      <br>
+      <input type="button" value="Add Product" id="addproduct">
+
+      <br>
+      <div id="resultpara"></div>
+</body>
+</html>
